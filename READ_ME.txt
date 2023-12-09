@@ -1,15 +1,19 @@
 Welcome to DIARY MANAGEMENT L2 Algorithmic Project
+
+Link to git with the project : https://github.com/CamilleDom/Project-L2-Algo.git
+
 To be able to run this program please first make sure to have all files
-you're supposed to have 13 files:
+you're supposed to have 14 files:
 - CMakeLists.txt
-- Display.c & Display.h
-- fichier.c & fichier.h
-- Fonction.c & Fonction.h
-- timer.c & timer.h
-- f.txt
-- Classic.txt
-- Level.txt
-- READ_ME.txt
+- main.c ( contain main program)
+- Display.c & Display.h (display features and functions)
+- fichier.c & fichier.h (functions of part 1&2)
+- Fonction.c & Fonction.h (functions of part 3)
+- timer.c & timer.h (timer module)
+- f.txt (file with all the name for the contacts)
+- Classic.txt ( file with the value of the classic search for the complexity)
+- Level.txt (file with the value of the level search for the complexity)
+- READ_ME.txt (where you are actually :3)
 
 to be able to fully run this program you will need to
 change in the program the paths of the files used during the program's running.
